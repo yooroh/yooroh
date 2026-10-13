@@ -2,11 +2,13 @@
 
 <div align="center">
 
-## welcome
+##| welcome |
 
 i'm euro, i just turned 17. i've been programming since i was 8 and messing around with random projects ever since with just about no breaks, tech is my passion.
 
 </div>
+
+
 
 [![stack](https://skillicons.dev/icons?i=html,css,js,bash,blender,bun,c,cs,cpp,cloudflare,discord,bots,discordjs,docker,dotnet,electron,git,github,go,gradle,java,kotlin,lua,md,mysql,nginx,nodejs,npm,php,postgres,powershell,py,react,redis,rust,ruby,sqlite,scala,svg,swift,tailwind,tauri,threejs,ts,unity,visualstudio,vscode,vite,wasm,vue&perline=5)](https://skillicons.dev)
 
